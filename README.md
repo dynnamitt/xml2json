@@ -12,7 +12,7 @@ Get the source code, then install dependency, using [npm](http://npmjs.org):
 
 ## Usage
 
-    $ xml2json < input.xml > output.json
+    $ xml2json [otpions] < input.xml > output.json
 
 ## Also
 
