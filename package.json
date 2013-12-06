@@ -4,7 +4,6 @@
   "description": "Convert an XML input to a JSON output, using xml-mapping",
   "main": "xml2json.js",
   "bin": { "xml2json": "bin.js" },
-  "preferGlobal": true,
   "dependencies": {
     "xml-mapping": "1.0.x",
     "optimist": "0.6.x"
